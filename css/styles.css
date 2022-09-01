@@ -1,0 +1,24 @@
+
+
+.data-container {
+    width: 900px;
+    height: 450px;
+    position: relative;
+    margin-left:150px;
+    margin-top: 38px;
+    
+}
+  
+.bar {
+    width: 35px;
+    position: absolute;
+    left: 10px;
+    bottom: 0;
+    background-color: #0096FF;
+    transition: 0.2s all ease;
+}
+  
+.warning
+{
+    display: none;
+}
